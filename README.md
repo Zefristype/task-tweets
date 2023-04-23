@@ -1,3 +1,3 @@
-![image](https://user-images.githubusercontent.com/110050090/233870028-e04badcd-2a15-4acf-981d-cbfa2e291f49.png)
+![image](https://user-images.githubusercontent.com/110050090/233870323-3a901d47-e539-4829-90da-012721d6b30d.png)
 
 Зверстаний по макету і зроблений інтерактив карток на React, використовуючи зборщик, всі такі додаткові завдання як маршрутизація і фільтер також зроблені
