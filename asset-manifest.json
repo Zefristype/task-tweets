@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/task-tweets/static/css/main.0ae13c89.css",
+    "main.js": "/task-tweets/static/js/main.361ac03c.js",
+    "static/js/133.c0ce7284.chunk.js": "/task-tweets/static/js/133.c0ce7284.chunk.js",
+    "static/js/363.51e52254.chunk.js": "/task-tweets/static/js/363.51e52254.chunk.js",
+    "static/js/183.f1b9f8fc.chunk.js": "/task-tweets/static/js/183.f1b9f8fc.chunk.js",
+    "static/js/40.979398f8.chunk.js": "/task-tweets/static/js/40.979398f8.chunk.js",
+    "static/media/CardBackground.png": "/task-tweets/static/media/CardBackground.86562350dcaa714a1442.png",
+    "index.html": "/task-tweets/index.html",
+    "main.0ae13c89.css.map": "/task-tweets/static/css/main.0ae13c89.css.map",
+    "main.361ac03c.js.map": "/task-tweets/static/js/main.361ac03c.js.map",
+    "133.c0ce7284.chunk.js.map": "/task-tweets/static/js/133.c0ce7284.chunk.js.map",
+    "363.51e52254.chunk.js.map": "/task-tweets/static/js/363.51e52254.chunk.js.map",
+    "183.f1b9f8fc.chunk.js.map": "/task-tweets/static/js/183.f1b9f8fc.chunk.js.map",
+    "40.979398f8.chunk.js.map": "/task-tweets/static/js/40.979398f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ae13c89.css",
+    "static/js/main.361ac03c.js"
+  ]
+}
